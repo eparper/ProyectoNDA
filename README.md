@@ -18,7 +18,10 @@ Para usuarios sin móvil, se ofrecerá una tarjeta física con su propio código
 
 ## Colores:
 Los colores usados son:
-
+  → Morado oscuro: #6a4fa2 
+  → Violeta: #8cd6fd
+  → Azul: #e19afb
+  → Azul claro: #b8ebfe
 ## Tipografía:
 
 ## Componentes:
