@@ -14,6 +14,17 @@ Para usuarios sin móvil, se ofrecerá una tarjeta física con su propio código
 
 # Pasos de instalación
 
+# Guia de estilos
+
+## Colores:
+Los colores usados son:
+
+## Tipografía:
+
+## Componentes:
+
+##Diseño responsive:
+
 # Configuración de entorno
 
 # Comandos de ejecución
