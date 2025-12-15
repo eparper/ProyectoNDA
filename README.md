@@ -22,8 +22,10 @@ Los colores usados son:
   - Violeta: #8cd6fd
   - Azul: #e19afb
   - Azul claro: #b8ebfe
+  - Blanco: #ffffff
 ## Tipografía:
-
+  - Manjari
+  - Conforta
 ## Componentes:
 
 ##Diseño responsive:
