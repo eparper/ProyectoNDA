@@ -47,8 +47,8 @@ Los colores usados son:
   - Enlaces
   - Switch
     
-##Diseño responsive:
-  - Diseño adaptado a dispositivos móviles desde  6,1 pulgadas a 6,7 pulgadas.
+## Diseño responsive:
+Diseño adaptado a dispositivos móviles desde  6,1 pulgadas a 6,7 pulgadas.
 
 # Configuración de entorno
 
