@@ -33,11 +33,20 @@ Los colores usados son:
   - Azul: #e19afb
   - Azul claro: #b8ebfe
   - Blanco: #ffffff
+    
 ## Tipografía:
   - Manjari
   - Conforta
+    
 ## Componentes:
-
+  - Lista seleccionables
+  - Campos de texto
+  - Campo fecha
+  - Botones radio
+  - Botones 
+  - Enlaces
+  - Switch
+    
 ##Diseño responsive:
 
 # Configuración de entorno
