@@ -42,6 +42,13 @@ Los colores usados son:
 
 # Configuración de entorno
 
-# Comandos de ejecución
+# Comandos de ejecución 
+
+### 1. Conectar vía SSH a tu servidor EC2
+### 2. Actualizar paquetes y dependencias
+### 3. Ejecutar el backend 
+### 4. Conectar todas las API's necesarias
+
+
 
 # Hosting. (Lo que pueda realizarse llegado a este punto a nivel técnico)
