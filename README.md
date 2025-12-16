@@ -57,9 +57,8 @@ DB_HOST=localhost
 DB_PORT=5432
 DB_NAME=usuarios
 DB_USER=admin
-DB_PASSWORD=Admin123
 
-Para entrar a la base de datos, tenemos el usuario admin con la contraseña Admin123.
+Para entrar a la base de datos, tenemos el usuario admin.
 Por defecto se utiliza localhost y el puerto 5432.
 hola soy Noe en la nueva rama
 
