@@ -61,6 +61,9 @@ DB_PASSWORD=contraseniaEjemplo
 
 Por defecto se utiliza localhost y el puerto 5432.
 
+Nuestros archivos .env seran añadidos a nuestro gitignore para que no puedan ser subidos a github, de esta forma los tendremos en forma local
+y evitaremos publicarlos de forma erronea en nuestro github
+
 # Comandos de ejecución 
 
 ### 1. Conectar vía SSH a tu servidor EC2
