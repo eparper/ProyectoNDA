@@ -61,7 +61,8 @@ DB_PASSWORD=Admin123
 
 Para entrar a la base de datos, tenemos el usuario admin con la contraseña Admin123.
 Por defecto se utiliza localhost y el puerto 5432.
-hola soy Noe
+hola soy Noe en la nueva rama
+
 # Comandos de ejecución 
 
 ### 1. Conectar vía SSH a tu servidor EC2
